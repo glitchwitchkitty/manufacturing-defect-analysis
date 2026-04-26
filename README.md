@@ -85,12 +85,13 @@ With ANOVA-confirmed variation and a weekly monitoring baseline, process changes
 manufacturing-defect-analysis/
 ├── README.md
 ├── fishbone.py
-├── anova_test_project3_with_boxplot.ipynb
+├── anova_test_with_boxplot.ipynb
 ├── anova_defects_per_week.csv
-├── project3_dashboard_draft2.pbix
+├── manufacturing_analysis_dashboard.pbix
 └── assets/
     ├── fishbone_diagram.png
     ├── dashboard_preview.pdf
+    ├── dashboard_preview.png
     └── boxplot_anova_output.png
 ```
 
@@ -98,7 +99,7 @@ manufacturing-defect-analysis/
 
 ## About Me
 
-I’m Kat — data analyst and builder. I focus on turning messy systems into clear decisions, using data to isolate what actually drives outcomes.
+I'm Kat — data analyst, creative coder, chaos gremlin. I like finding the signal in messy systems and building tools that make the answer obvious.
 
 📎 [Portfolio](https://glitchwitchkitty.github.io/chaosgremlinhq-portfolio/)  
 📎 [GitHub](https://github.com/glitchwitchkitty)
