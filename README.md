@@ -41,7 +41,7 @@ The boxplot below visualizes distribution differences across models, supporting 
 
 ![ANOVA Boxplot](assets/boxplot_anova_output.png)
 
-📓 [`anova_test_project3_with_boxplot.ipynb`](anova_test_project3_with_boxplot.ipynb)
+📓 [`anova_test_with_boxplot.ipynb`](anova_test_with_boxplot.ipynb)
 
 ---
 
@@ -53,7 +53,8 @@ Built an interactive **Power BI dashboard** to support ongoing monitoring and de
 - KPI cards summarizing statistical results  
 - Multi-level breakdown by defect type and observation area  
 
-📊 [`project3_dashboard_draft2.pbix`](project3_dashboard_draft2.pbix) *(Power BI Desktop required)*  
+![dashboard_preview](assets/dashboard_preview.png)
+📊 [`manufacturing_defect_analysis_dashboard.pbix`](manufacturing_defect_analysis_dashboard.pbix) *(Power BI Desktop required)*  
 🖼️ [`dashboard_preview.pdf`](assets/dashboard_preview.pdf) *(quick view)*
 
 ---
