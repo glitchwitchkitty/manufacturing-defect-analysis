@@ -27,6 +27,7 @@ This project combines root cause analysis, statistical testing, and data visuali
 ### Root Cause Analysis  
 Developed a Python-generated **Ishikawa (Fishbone) Diagram** to identify contributing factors across six categories: Methods, Manpower, Measurement, Machines, Materials, and Environment.
 
+![fishbone_diagram](assets/fishbone_diagram.png)
 📄 [`fishbone.py`](fishbone.py)
 
 ---
